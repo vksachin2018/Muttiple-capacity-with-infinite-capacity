@@ -25,8 +25,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program
 ```
-Name:Bakkiyalakshmi
-Reg No.:212223220012
+Name: Gokul sachin k
+Reg No.:212223220025
 ```
 ```
 import math
